@@ -131,7 +131,7 @@ Here's an example code snippet that demonstrates how to use the binary instructi
     0b1001000000000100   # jlt 00000100
 
   # Contributions
-    (i) Namit Jain (2022315)
-    (ii) Prayag Parashar (2022377)
+    (i) Prayag Parashar (2022377)
+    (ii) Namit Jain (2022315)
     (iii) Naman Jindal (2022311)
     (iv) Niteen Kumar (2022336)
